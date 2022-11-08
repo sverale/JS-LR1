@@ -1,4 +1,4 @@
-let x = Math.PI*2/42
+let x = Math.PI*2/43
 let p = -Math.PI
 let y1, y2,y3 = 0
 while (p <= Math.PI) {  
